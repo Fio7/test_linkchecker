@@ -33,7 +33,7 @@ namespace Fleshgrinder\Validator;
  * @copyright 2010-2015 Diego Perini & Richard Fussenegger
  * @license MIT
  */
-final class URL
+class URL
 {
 
 
