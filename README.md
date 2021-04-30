@@ -1,3 +1,5 @@
+# Cloned from https://github.com/Fleshgrinder/php-url-validator as part of Git testing 
+
 # URL Validation
 I made this repository specifically for Mathias Bynens' little “[in search of the perfect URL validation regex]
 (https://mathiasbynens.be/demo/url-regex)” challenge and if I may spoiler you from the beginning, mine is not
